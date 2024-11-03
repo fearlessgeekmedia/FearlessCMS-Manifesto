@@ -54,4 +54,4 @@ With these policies in place, FearlessCMS seeks to create a platform that is lig
 
 ### Support is needed:
 
-Development of this CMS is underway. Feel free to support development of FeralessCMS on [Ko-Fi](https://ko-fi.com/fearlessgeekmedia)!. We will be releasing source code soon.
+Development of this CMS is underway. Feel free to financially support development of FeralessCMS on [Ko-Fi](https://ko-fi.com/fearlessgeekmedia)!. We will be releasing source code soon.
