@@ -1,0 +1,2 @@
+# FearlessCMS-Manifesto
+FearlessCMS Manifesto
